@@ -2,38 +2,86 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Convert 45°15’45’’ to decimal degrees.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "45.26",
+       "b": "45.36",
+       "c": "45.00",
+       "d": "42.26"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "An ___projection is one that preserves direction for all straight lines passing through a single, specified point.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Conformal",
+       "b": "Equidistant",
+       "c": "Azimuthal",
+       "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "The Universal Polar Stereographic (UPS) is defined above _ degrees north latitude and south of _ degrees south latitude.",
+      "answers": {
+        "a": "82N and 80S",
+       "b": "80S and 84N",
+       "c": "82S and 80N",
+       "d": "84N and 80S"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "All easting values east and west of the central meridian will be____.",
+      "answers": {
+        "a": "Negative",
+       "b": "Positive",
+       "c": "Both a and b",
+       "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+     "question": "Users cannot view data inside the File Geodatabase while the geodatabase is being edited by another user",
+     "answers": {
+       "a": "True",
+      "b": "False"
+        
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
     }
   ]
 }
