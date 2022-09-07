@@ -3,8 +3,8 @@
     <th>References</th>
     <th>Contributors list</th>
   </tr>
-  <tr style="background-color: white">
-    <td>
+  <tr style="background-color: white;">
+    <td style="width: 60%">
     <ol>
     <li>Introduction to Geographic Information Systems , by Kang Tsung Chang – McGraw- Hill-Higher Education , 3rd Edition with CD-ROM , 2008.</li>
     <li>Introduction to GPS: the Global Positioning System, by EI- Rabbany, Ahmed, Artech House, Inc. 2002.</li>
@@ -18,10 +18,10 @@
     <td>Developer : Dr. Pruthviraj U | NITK</br></br>
     Contributors :
     <ul style="list-style-type: none;">
-    <li>Akshaya| NITK</li>
-    <li>Aishwarya Shetty| NITK</li>
-    <li> Aishwarya Hegde| NITK</li>
-    <li>Swathi Shetty| NITK</li>
+    <li>Akshaya | NITK</li>
+    <li>Aishwarya Shetty | NITK</li>
+    <li> Aishwarya Hegde | NITK</li>
+    <li>Swathi Shetty | NITK</li>
      </ul></td>
   </tr>
 </table>
