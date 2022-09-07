@@ -2,38 +2,86 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "A geographic Coordinate System includes: Angular units, Spheroid, Datum and Prime meridian.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "True",
+        "b": "False"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "A geographic coordinate system is a __reference system that locates points on the Earth's surface",
+      "answers": {
+        "a": "Three-dimensional",
+        "b": "Two-dimensional",
+        "c":  "Four-Dimensional",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question":"GIS deals with which kind of data",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Numeric data",
+        "b": "Binary data",
+        "c":  "Spatial data",
+        "d": "Complex data"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "‘Spatial databases’ are also known as",
+      "answers": {
+        "a": "Geo Databases",
+        "b": "Mono Databases",
+        "c":  "Concurrent Databases",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
+    },
+    {
+     "question": "A projected coordinate system is a flat ____ representation of the Earth.",
+     "answers": {
+       "a": "Three-dimensional",
+       "b": "Two-dimensional",
+       "c":  "Four-Dimensional",
+       "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
     }
+
   ]
 }
