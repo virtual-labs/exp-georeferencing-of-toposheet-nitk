@@ -20,7 +20,7 @@
     <ul style="list-style-type: none;">
     <li>Akshaya | NITK</li>
     <li>Aishwarya Shetty | NITK</li>
-    <li> Aishwarya Hegde | NITK</li>
+    <li>Aishwarya Hegde | NITK</li>
     <li>Swathi Shetty | NITK</li>
      </ul></td>
   </tr>
