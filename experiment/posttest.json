@@ -1,4 +1,4 @@
-{
+﻿{
   "version": 2.0,
   "questions": [
     {
@@ -10,10 +10,10 @@
        "d": "42.26"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Correct Answer. To convert to decimal degree convert minutes and seconds to their degree equivalents and add to the degree",
+        "b": "To convert to decimal degree convert minutes and seconds to their degree equivalents and add to the degree",
+        "c": "To convert to decimal degree convert minutes and seconds to their degree equivalents and add to the degree",
+        "d": "To convert to decimal degree convert minutes and seconds to their degree equivalents and add to the degree"
       },
       "correctAnswer": "a",
       "difficulty": "intermediate"
@@ -27,10 +27,10 @@
        "d": "All of the above"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "A conformal projection is a map projection that favors preserving the shape of features on the map but may greatly distort the size of features.",
+        "b": "A Equidistant projection maintains scale along one or more lines, or from one or two points to all other points on the map",
+        "c": "Correct Answer.  A map projection in which a globe, as of the Earth, is assumed to rest on a flat surface onto which its features are projected. ",
+        "d": "Azimuthal projection is one that preserves direction for all straight lines passing through a single, specified point."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
        "d": "84N and 80S"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The Universal Polar Stereographic (UPS) is defined above 84N degrees north latitude and south of 80S degrees south latitude.",
+        "b": "The Universal Polar Stereographic (UPS) is defined above 84N degrees north latitude and south of 80S degrees south latitude.",
+        "c": "The Universal Polar Stereographic (UPS) is defined above 84N degrees north latitude and south of 80S degrees south latitude.",
+        "d": "Correct Answer. The Universal Polar Stereographic (UPS) is defined above 84N degrees north latitude and south of 80S degrees south latitude."
       },
       "correctAnswer": "d",
       "difficulty": "advanced"
@@ -61,10 +61,10 @@
        "d": "None of the above"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "All easting values east and west of the central meridian will be Positive.",
+        "b": "Correct Answer. All easting values east and west of the central meridian will be Positive.",
+        "c": "All easting values east and west of the central meridian will be Positive.",
+        "d": "All easting values east and west of the central meridian will be Positive."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -77,8 +77,8 @@
         
       },
       "explanations": {
-        "a": "",
-        "b": ""
+        "a": "Correct Answer.Users cannot view data inside the File Geodatabase while the geodatabase is being edited by another user. ",
+        "b": "Users cannot view data inside the File Geodatabase while the geodatabase is being edited by another user"
       },
       "correctAnswer": "a",
       "difficulty": "advanced"
