@@ -15,7 +15,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "A geographic coordinate system is a __reference system that locates points on the Earth's surface",
+      "question": "A geographic coordinate system is a ________ reference system that locates points on the Earth's surface",
       "answers": {
         "a": "Three-dimensional",
         "b": "Two-dimensional",
@@ -66,7 +66,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "A projected coordinate system is a flat ____ representation of the Earth.",
+      "question": "A projected coordinate system is a flat ________ representation of the Earth.",
       "answers": {
         "a": "Three-dimensional",
         "b": "Two-dimensional",
