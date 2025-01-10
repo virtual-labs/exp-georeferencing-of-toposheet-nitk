@@ -5,9 +5,9 @@
       "question": "Convert 45°15’45’’ to decimal degrees.",
       "answers": {
         "a": "45.26",
-       "b": "45.36",
-       "c": "45.00",
-       "d": "42.26"
+        "b": "45.36",
+        "c": "45.00",
+        "d": "42.26"
       },
       "explanations": {
         "a": "Correct Answer. To convert to decimal degree convert minutes and seconds to their degree equivalents and add to the degree",
@@ -19,12 +19,12 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "An ___projection is one that preserves direction for all straight lines passing through a single, specified point.",
+      "question": "An ________ projection is one that preserves direction for all straight lines passing through a single, specified point.",
       "answers": {
         "a": "Conformal",
-       "b": "Equidistant",
-       "c": "Azimuthal",
-       "d": "All of the above"
+        "b": "Equidistant",
+        "c": "Azimuthal",
+        "d": "All of the above"
       },
       "explanations": {
         "a": "A conformal projection is a map projection that favors preserving the shape of features on the map but may greatly distort the size of features.",
@@ -36,12 +36,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The Universal Polar Stereographic (UPS) is defined above _ degrees north latitude and south of _ degrees south latitude.",
+      "question": "The Universal Polar Stereographic (UPS) is defined above ________ degrees north latitude and south of ________ degrees south latitude.",
       "answers": {
         "a": "82N and 80S",
-       "b": "80S and 84N",
-       "c": "82S and 80N",
-       "d": "84N and 80S"
+        "b": "80S and 84N",
+        "c": "82S and 80N",
+        "d": "84N and 80S"
       },
       "explanations": {
         "a": "The Universal Polar Stereographic (UPS) is defined above 84N degrees north latitude and south of 80S degrees south latitude.",
@@ -53,12 +53,12 @@
       "difficulty": "advanced"
     },
     {
-      "question": "All easting values east and west of the central meridian will be____.",
+      "question": "All easting values east and west of the central meridian will be ________.",
       "answers": {
         "a": "Negative",
-       "b": "Positive",
-       "c": "Both a and b",
-       "d": "None of the above"
+        "b": "Positive",
+        "c": "Both a and b",
+        "d": "None of the above"
       },
       "explanations": {
         "a": "All easting values east and west of the central meridian will be Positive.",
@@ -70,11 +70,10 @@
       "difficulty": "beginner"
     },
     {
-     "question": "Users cannot view data inside the File Geodatabase while the geodatabase is being edited by another user",
-     "answers": {
-       "a": "True",
-      "b": "False"
-        
+      "question": "Users cannot view data inside the File Geodatabase while the geodatabase is being edited by another user",
+      "answers": {
+        "a": "True",
+        "b": "False"
       },
       "explanations": {
         "a": "Correct Answer.Users cannot view data inside the File Geodatabase while the geodatabase is being edited by another user. ",
