@@ -53,18 +53,18 @@
       "difficulty": "advanced"
     },
     {
-      "question": "All easting values east and west of the central meridian will be ________.",
+      "question": "In the process of georeferencing, what is the term used for the known coordinates or reference points?",
       "answers": {
-        "a": "Negative",
-        "b": "Positive",
-        "c": "Both a and b",
-        "d": "None of the above"
+        "a": "Projections",
+        "b": "Control points",
+        "c": "Gridlines",
+        "d": "Datum"
       },
       "explanations": {
-        "a": "All easting values east and west of the central meridian will be Positive.",
-        "b": "Correct Answer. All easting values east and west of the central meridian will be Positive.",
-        "c": "All easting values east and west of the central meridian will be Positive.",
-        "d": "All easting values east and west of the central meridian will be Positive."
+        "a": "Projections refer to the mathematical methods used to represent the curved surface of the Earth on a flat map, not specific reference points.",
+        "b": "Correct Answer. Control points are known geographic coordinates or reference points used in georeferencing to align spatial data with real-world locations.",
+        "c": "Gridlines are the lines on a map representing the coordinate system (e.g., latitude and longitude), but they are not specific reference points.",
+        "d": "A datum defines the size and shape of the Earth and serves as a reference framework for coordinates, but it is not used for pinpointing specific reference locations like control points."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
