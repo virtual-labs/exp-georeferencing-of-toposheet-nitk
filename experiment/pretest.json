@@ -81,6 +81,23 @@
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
+    },
+    {
+      "question": "Which of the following is NOT a common coordinate system used in georeferencing?",
+      "answers": {
+        "a": "Universal Transverse Mercator (UTM)",
+        "b": "Geographic Coordinate System (GCS)",
+        "c": "British National Grid (BNG)",
+        "d": "Temporal Coordinate System (TCS)"
+      },
+      "explanations": {
+        "a": "UTM is a widely used coordinate system that divides the world into a grid of zones for accurate mapping.",
+        "b": "GCS is a standard coordinate system that uses latitude and longitude to locate points on the Earth's surface",
+        "c": "BNG is a coordinate system commonly used for mapping in Great Britain.",
+        "d": "Correct Answer. TCS is not a spatial coordinate system; it refers to time-related data, not geographic positioning."
+      },
+      "correctAnswer": "d",
+      "difficulty": "advanced"
     }
   ]
 }
