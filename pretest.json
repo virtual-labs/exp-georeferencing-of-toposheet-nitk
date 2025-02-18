@@ -1,0 +1,103 @@
+﻿{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "A geographic Coordinate System includes: Angular units, Spheroid, Datum and Prime meridian.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "Correct Answer. A geographic Coordinate System includes: Angular units, Spheroid, Datum and Prime meridian.",
+        "b": "A geographic Coordinate System includes: Angular units, Spheroid, Datum and Prime meridian."
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "A geographic coordinate system is a ________ reference system that locates points on the Earth's surface",
+      "answers": {
+        "a": "Three-dimensional",
+        "b": "Two-dimensional",
+        "c": "Four-Dimensional",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Correcct Answer. A geographic coordinate system is a three-dimensional reference system that locates points on the Earth's surface.",
+        "b": "A geographic coordinate system is a three-dimensional reference system.",
+        "c": "A geographic coordinate system is a three-dimensional reference system.",
+        "d": "A geographic coordinate system is a three-dimensional reference system."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "GIS deals with which kind of data",
+      "answers": {
+        "a": "Numeric data",
+        "b": "Binary data",
+        "c": "Spatial data",
+        "d": "Complex data"
+      },
+      "explanations": {
+        "a": "GIS deals with which kind of data",
+        "b": "GIS deals with which kind of data",
+        "c": "Correct Answer. GIS deals with which kind of data",
+        "d": "GIS deals with which kind of data"
+      },
+      "correctAnswer": "c",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "'Spatial databases' are also known as",
+      "answers": {
+        "a": "Geo Databases",
+        "b": "Mono Databases",
+        "c": "Concurrent Databases",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Correct Answer. A spatial database is also known as a “geospatial database”, built to capture and store the points, lines, and areas of cartographic information that we refer to as spatial data.",
+        "b": "A spatial database is also known as a “geospatial database”, built to capture and store the points, lines, and areas of cartographic information that we refer to as spatial data.",
+        "c": "A spatial database is also known as a “geospatial database”, built to capture and store the points, lines, and areas of cartographic information that we refer to as spatial data.",
+        "d": "A spatial database is also known as a “geospatial database”, built to capture and store the points, lines, and areas of cartographic information that we refer to as spatial data"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A projected coordinate system is a flat ________ representation of the Earth.",
+      "answers": {
+        "a": "Three-dimensional",
+        "b": "Two-dimensional",
+        "c": "Four-Dimensional",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": " A projected coordinate system is a flat two dimension representation of the Earth. The latitude and longitude coordinates are converted to x, y coordinates on the flat projection.",
+        "b": "Correct Answer. A projected coordinate system is a flat two dimension representation of the Earth. The latitude and longitude coordinates are converted to x, y coordinates on the flat projection.",
+        "c": " A projected coordinate system is a flat two dimension representation of the Earth. The latitude and longitude coordinates are converted to x, y coordinates on the flat projection.",
+        "d": " A projected coordinate system is a flat two dimension representation of the Earth. The latitude and longitude coordinates are converted to x, y coordinates on the flat projection."
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Which of the following is NOT a common coordinate system used in georeferencing?",
+      "answers": {
+        "a": "Universal Transverse Mercator (UTM)",
+        "b": "Geographic Coordinate System (GCS)",
+        "c": "British National Grid (BNG)",
+        "d": "Temporal Coordinate System (TCS)"
+      },
+      "explanations": {
+        "a": "UTM is a widely used coordinate system that divides the world into a grid of zones for accurate mapping.",
+        "b": "GCS is a standard coordinate system that uses latitude and longitude to locate points on the Earth's surface",
+        "c": "BNG is a coordinate system commonly used for mapping in Great Britain.",
+        "d": "Correct Answer. TCS is not a spatial coordinate system; it refers to time-related data, not geographic positioning."
+      },
+      "correctAnswer": "d",
+      "difficulty": "advanced"
+    }
+  ]
+}
