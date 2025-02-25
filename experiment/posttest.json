@@ -1,84 +1,83 @@
-{
+﻿{
   "version": 2.0,
   "questions": [
     {
       "question": "Convert 45°15’45’’ to decimal degrees.",
       "answers": {
         "a": "45.26",
-       "b": "45.36",
-       "c": "45.00",
-       "d": "42.26"
+        "b": "45.36",
+        "c": "45.00",
+        "d": "42.26"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Correct Answer. To convert to decimal degree convert minutes and seconds to their degree equivalents and add to the degree",
+        "b": "To convert to decimal degree convert minutes and seconds to their degree equivalents and add to the degree",
+        "c": "To convert to decimal degree convert minutes and seconds to their degree equivalents and add to the degree",
+        "d": "To convert to decimal degree convert minutes and seconds to their degree equivalents and add to the degree"
       },
       "correctAnswer": "a",
       "difficulty": "intermediate"
     },
     {
-      "question": "An ___projection is one that preserves direction for all straight lines passing through a single, specified point.",
+      "question": "An ________ projection is one that preserves direction for all straight lines passing through a single, specified point.",
       "answers": {
         "a": "Conformal",
-       "b": "Equidistant",
-       "c": "Azimuthal",
-       "d": "All of the above"
+        "b": "Equidistant",
+        "c": "Azimuthal",
+        "d": "All of the above"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "A conformal projection is a map projection that favors preserving the shape of features on the map but may greatly distort the size of features.",
+        "b": "A Equidistant projection maintains scale along one or more lines, or from one or two points to all other points on the map",
+        "c": "Correct Answer.  A map projection in which a globe, as of the Earth, is assumed to rest on a flat surface onto which its features are projected. ",
+        "d": "Azimuthal projection is one that preserves direction for all straight lines passing through a single, specified point."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "The Universal Polar Stereographic (UPS) is defined above _ degrees north latitude and south of _ degrees south latitude.",
+      "question": "The Universal Polar Stereographic (UPS) is defined above ________ degrees north latitude and south of ________ degrees south latitude.",
       "answers": {
         "a": "82N and 80S",
-       "b": "80S and 84N",
-       "c": "82S and 80N",
-       "d": "84N and 80S"
+        "b": "80S and 84N",
+        "c": "82S and 80N",
+        "d": "84N and 80S"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The Universal Polar Stereographic (UPS) is defined above 84N degrees north latitude and south of 80S degrees south latitude.",
+        "b": "The Universal Polar Stereographic (UPS) is defined above 84N degrees north latitude and south of 80S degrees south latitude.",
+        "c": "The Universal Polar Stereographic (UPS) is defined above 84N degrees north latitude and south of 80S degrees south latitude.",
+        "d": "Correct Answer. The Universal Polar Stereographic (UPS) is defined above 84N degrees north latitude and south of 80S degrees south latitude."
       },
       "correctAnswer": "d",
       "difficulty": "advanced"
     },
     {
-      "question": "All easting values east and west of the central meridian will be____.",
+      "question": "In the process of georeferencing, what is the term used for the known coordinates or reference points?",
       "answers": {
-        "a": "Negative",
-       "b": "Positive",
-       "c": "Both a and b",
-       "d": "None of the above"
+        "a": "Projections",
+        "b": "Control points",
+        "c": "Gridlines",
+        "d": "Datum"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Projections refer to the mathematical methods used to represent the curved surface of the Earth on a flat map, not specific reference points.",
+        "b": "Correct Answer. Control points are known geographic coordinates or reference points used in georeferencing to align spatial data with real-world locations.",
+        "c": "Gridlines are the lines on a map representing the coordinate system (e.g., latitude and longitude), but they are not specific reference points.",
+        "d": "A datum defines the size and shape of the Earth and serves as a reference framework for coordinates, but it is not used for pinpointing specific reference locations like control points."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-     "question": "Users cannot view data inside the File Geodatabase while the geodatabase is being edited by another user",
-     "answers": {
-       "a": "True",
-      "b": "False"
-        
+      "question": "Users cannot view data inside the File Geodatabase while the geodatabase is being edited by another user",
+      "answers": {
+        "a": "True",
+        "b": "False"
       },
       "explanations": {
-        "a": "",
-        "b": ""
+        "a": "Correct Answer.Users cannot view data inside the File Geodatabase while the geodatabase is being edited by another user. ",
+        "b": "Users cannot view data inside the File Geodatabase while the geodatabase is being edited by another user"
       },
       "correctAnswer": "a",
       "difficulty": "advanced"
